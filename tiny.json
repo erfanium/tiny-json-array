@@ -1,0 +1,15 @@
+[
+  ["id", "email", "first_name", "last_name", "avatar"],
+  [1, "george.bluth@reqres.in", "George", "Bluth", "128.jpg"],
+  [2, "janet.weaver@reqres.in", "Janet", "Weaver", "128.jpg"],
+  [3, "emma.wong@reqres.in", "Emma", "Wong", "128.jpg"],
+  [4, "eve.holt@reqres.in", "Eve", "Holt", "128.jpg"],
+  [5, "charles.morris@reqres.in", "Charles", "Morris", "128.jpg"],
+  [6, "tracey.ramos@reqres.in", "Tracey", "Ramos", "128.jpg"],
+  [7, "michael.lawson@reqres.in", "Michael", "Lawson", "128.jpg"],
+  [8, "lindsay.ferguson@reqres.in", "Lindsay", "Ferguson", "128.jpg"],
+  [9, "tobias.funke@reqres.in", "Tobias", "Funke", "128.jpg"],
+  [10, "byron.fields@reqres.in", "Byron", "Fields", "128.jpg"],
+  [11, "george.edwards@reqres.in", "George", "Edwards", "128.jpg"],
+  [12, "rachel.howell@reqres.in", "Rachel", "Howell", "128.jpg"]
+]
